@@ -47,3 +47,5 @@ http://google-perftools.googlecode.com/svn/trunk/doc/cpuprofile.html
 
 
 http://lemire.me/blog/archives/2012/06/20/do-not-waste-time-with-stl-vectors/
+
+http://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c4027/C-Tutorial-A-Beginners-Guide-to-stdvector-Part-1.htm
