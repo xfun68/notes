@@ -3,6 +3,7 @@ notes
 
 http://stackoverflow.com/a/5699483
 
+```c++
 void printStack( void );
 void printStack( void )
 {
@@ -30,3 +31,4 @@ void printStack( void )
 
      free( symbol );
 }
+```
