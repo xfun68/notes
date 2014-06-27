@@ -44,3 +44,6 @@ http://blog.csdn.net/jhzhou/article/details/7245992
 http://google-perftools.googlecode.com/svn/trunk/doc/heapprofile.html
 
 http://google-perftools.googlecode.com/svn/trunk/doc/cpuprofile.html
+
+
+http://lemire.me/blog/archives/2012/06/20/do-not-waste-time-with-stl-vectors/
