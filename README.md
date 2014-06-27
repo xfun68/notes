@@ -41,3 +41,4 @@ http://dirlt.com/tcmalloc.html
 http://goog-perftools.sourceforge.net/doc/tcmalloc.html
 
 http://blog.csdn.net/jhzhou/article/details/7245992
+http://google-perftools.googlecode.com/svn/trunk/doc/heapprofile.html
